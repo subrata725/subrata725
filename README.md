@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+This is Subrata. I am tech writer 
 <!--
 **subrata725/subrata725** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
